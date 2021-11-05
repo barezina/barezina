@@ -1,6 +1,5 @@
 * 👋 Hi, I’m @barezina
-* 👀 I’m interested in PHP, Laravel and Vue!
-* 🌱 I’m currently trying to learn machine learning.
+* 👀 10+ years experience in Backend, Frontend and Mobile web services
 * 📫 How to reach me: Message me on instagram! @barezina
 
 <!---
